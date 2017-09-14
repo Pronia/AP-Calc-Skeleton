@@ -31,4 +31,6 @@ public interface Token {
      */
     int getPrecedence();
 
+    // useless comment
+
 }
